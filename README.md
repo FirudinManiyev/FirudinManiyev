@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE8Vf--4XkYlA/profile-displaybackgroundimage-shrink_350_1400/B4DZXsnNzpHwAY-/0/1743431460447?e=1770249600&v=beta&t=oMT9oapMYMENXoU6d9SgsZfaUBm3dwVenY3O7723Wcg)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE8Vf--4XkYlA/profile-displaybackgroundimage-shrink_350_1400/B4DZXsnNzpHwAY-/0/1743431460447?e=1770249600&v=beta&t=oMT9oapMYMENXoU6d9SgsZfaUBm3dwVenY3O7723Wcg)
 <h1 align="center">Hi 👋, I'm Firudin Maniyev</h1>
 <h3 align="center">A passionate fullstack developer from Azerbaijan</h3>
 
