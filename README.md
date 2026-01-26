@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/firudin maniyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firudin maniyev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/32206952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32206952" height="30" width="40" /></a>
-<a href="https://fb.com/firudin maniyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="firudin maniyev" height="30" width="40" /></a>
-<a href="https://instagram.com/firudin.coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firudin.coder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/firudin maniyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="firudin maniyev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/firudin-maniyev-4843242b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="firudin maniyev" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/32206952/firudin-maniyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32206952" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100070560084925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="firudin maniyev" height="30" width="40" /></a>
+<a href="https://www.instagram.com/firudin.coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="firudin.coder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@firudinmaniyev9867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="firudin maniyev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
