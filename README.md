@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFIJunxRDnfqA/profile-displaybackgroundimage-shrink_350_1400/B4DZvH4cmxKYAY-/0/1768585023591?e=1770249600&v=beta&t=35wKWVCPgBqApWJ8V8VKQguaHDxVedFFLQF5vNqj-WA)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Firudin Maniyev</h1>
 <h3 align="center">A passionate fullstack developer from Azerbaijan</h3>
 
